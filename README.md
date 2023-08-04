@@ -1,2 +1,2 @@
 # Java-Oracle-MusicDB
-music database with java programming to find the artist and music by the artist and update the database as needed. 
+A Music database with Java programming to find the artist and music by the artist and update the database as needed. this project was developed as a part of the class project to learn how to connect the Oracle database with a backend programming page so it can edit and update data in the database management system. used Java as the programming language, oracle for SQL databases. 
